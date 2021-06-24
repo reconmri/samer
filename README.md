@@ -1,6 +1,6 @@
 *** Source code will be published after publication of our manuscript ***
 
-*** Expected results are available in DescriptionMatlabExampleCode.pdf ***
+*** Expected results are available in ResultsDescription.pdf ***
 
 
 These scripts and data provide example code for the method described in:
