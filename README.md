@@ -1,4 +1,4 @@
-*** Source code will be published after publication ***
+*** Source code will be published after publication. Expected results are available in DescriptionMatlabExampleCode.pdf ***
 
 These scripts and data provide example code for the method described in:
 
