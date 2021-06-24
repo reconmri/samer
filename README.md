@@ -1,4 +1,4 @@
-README.md
+*** Source code will be published after publication ***
 
 These scripts and data provide example code for the method described in:
 
