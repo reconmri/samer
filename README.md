@@ -1,5 +1,3 @@
-*** Source code will be published after publication of our manuscript ***
-
 *** Expected results are available in ResultsDescription.pdf ***
 
 
